@@ -713,14 +713,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Weather\\Weather\\Weather\\Weather.csproj",
+      "projectUniqueName": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather\\Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "C:\\workspace\\Weather\\Weather\\Weather\\Weather.csproj",
+      "projectPath": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather\\Weather.csproj",
       "packagesPath": "C:\\Users\\alexander.nigl\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Weather\\Weather\\Weather\\obj\\",
+      "outputPath": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexander.nigl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

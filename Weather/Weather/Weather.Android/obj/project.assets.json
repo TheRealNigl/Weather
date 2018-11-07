@@ -1203,13 +1203,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Weather\\Weather\\Weather.Android\\Weather.Android.csproj",
+      "projectUniqueName": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather.Android\\Weather.Android.csproj",
       "projectName": "Weather.Android",
-      "projectPath": "C:\\workspace\\Weather\\Weather\\Weather.Android\\Weather.Android.csproj",
+      "projectPath": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather.Android\\Weather.Android.csproj",
       "packagesPath": "C:\\Users\\alexander.nigl\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Weather\\Weather\\Weather.Android\\obj\\",
+      "outputPath": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\alexander.nigl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
@@ -1220,8 +1224,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\workspace\\Weather\\Weather\\Weather\\Weather.csproj": {
-              "projectPath": "C:\\workspace\\Weather\\Weather\\Weather\\Weather.csproj"
+            "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather\\Weather.csproj": {
+              "projectPath": "C:\\workspace\\TheRealNigl\\Weather\\Weather\\Weather\\Weather.csproj"
             }
           }
         }
