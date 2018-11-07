@@ -1,0 +1,204 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "2fc483574219aa60752016d00635b54c0942b9cb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Weather/1.0.0": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha",
+          "Accord.MachineLearning.GPL": "3.8.2-alpha",
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Essentials": "0.11.0-preview",
+          "Xamarin.Forms": "3.4.0.925479-pre1"
+        },
+        "runtime": {
+          "Weather.dll": {}
+        }
+      },
+      "Accord/3.8.2-alpha": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.MachineLearning/3.8.2-alpha": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha",
+          "Accord.Math": "3.8.2-alpha",
+          "Accord.Statistics": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.MachineLearning.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.MachineLearning.GPL/3.8.2-alpha": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha",
+          "Accord.MachineLearning": "3.8.2-alpha",
+          "Accord.Math": "3.8.2-alpha",
+          "Accord.Statistics": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.MachineLearning.GPL.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.Math/3.8.2-alpha": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.Statistics/3.8.2-alpha": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha",
+          "Accord.Math": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Statistics.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/0.11.0-preview": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.4.0.925479-pre1": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weather/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accord/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NC6ZyYwNNDk5U+AwfmS3e9yy4N96PWVB6BuKW4hB6rfIs5dyi+IcxhhvXcOUrSwjGwo18t2bhJNjXBgSNI/RZA==",
+      "path": "accord/3.8.2-alpha",
+      "hashPath": "accord.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.MachineLearning/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tr8fvFvRg42KoXIpgEGmivDokM4tiMgHLr0XIjbgCnBfm8g696GaW3tjf1sZqUtiV2gx29W2LmtmvmUWs1sw3Q==",
+      "path": "accord.machinelearning/3.8.2-alpha",
+      "hashPath": "accord.machinelearning.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.MachineLearning.GPL/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mHpSgxMaoL4Sl93RvnWX775bpR9pXw7uMkLrngo4FF5eKeYvQYSqwqaBdEwqooshLoZzqF0ZXUf9253Fby0sAA==",
+      "path": "accord.machinelearning.gpl/3.8.2-alpha",
+      "hashPath": "accord.machinelearning.gpl.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.Math/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1lT6xYP6N73B3i8+kKAEUvxSgWI+SHOtQAgtMlccMF/dJEjUskA1nns3yV+SK9d51o2Xhnjf6rTlS8D4FKOrNw==",
+      "path": "accord.math/3.8.2-alpha",
+      "hashPath": "accord.math.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.Statistics/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EQ/8IRg2ARh/Tgi2sA3K8Cad6kusFVP+CCfWU8GhbhveqeoBXrZDgnFkOuQT8LCSyAEGdzfWbQUK30veUQJd3A==",
+      "path": "accord.statistics/3.8.2-alpha",
+      "hashPath": "accord.statistics.3.8.2-alpha.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AK4wVgiJqQQCALZ+2ZFY3UqEyIunVlNSBLAHNyI8bJfLT5c9kHZH3nVF2KUWYd1/2POvaz3xx9K6nSKo6m78Ew==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/0.11.0-preview": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-12YM3Na6inAHj5imaYFVVq2qeLXJ7ZUzrje2AvOu2nDTj0cZYlOAfaP2N7otqpiIF8SV9TQOa8GafgGd4fYOyw==",
+      "path": "xamarin.essentials/0.11.0-preview",
+      "hashPath": "xamarin.essentials.0.11.0-preview.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.4.0.925479-pre1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8YVbzy1MwPc6oRm1iCk5pLSdkOikiXrq0oXFvmcMcUJo9j0+wL90N4Qp0YfCFl16+qqTVSw6SR1GG/EJdRGsEg==",
+      "path": "xamarin.forms/3.4.0.925479-pre1",
+      "hashPath": "xamarin.forms.3.4.0.925479-pre1.nupkg.sha512"
+    }
+  }
+}
