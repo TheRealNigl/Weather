@@ -11,3 +11,19 @@ Core Features:
 - CoreML
 - Lottie
 
+
+References:
+
+  -iOS
+https://docs.microsoft.com/en-us/xamarin/ios/deploy-test/app-distribution/app-store-distribution/publishing-to-the-app-store?tabs=macos
+
+https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/manual-provisioning?tabs=macos
+
+  -Lottie
+https://www.lottiefiles.com/502-cloud
+
+https://www.lottiefiles.com/2115-suncloud
+
+https://www.lottiefiles.com/2073-sun-and-rain
+
+https://www.lottiefiles.com/2074-rain
